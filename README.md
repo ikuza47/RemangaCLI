@@ -26,3 +26,5 @@ python main.py
 Если хотите закинуть деньгу - [тык](https://dalink.to/ikuza47)
 
 А ещё заходите на [ikuza.space](https://ikuza.space) 👀
+
+<a href="https://ikuza.space"><img src="https://raw.githubusercontent.com/ikuza47/ikuza47/refs/heads/main/files/ikuza.space.logo.svg" alt="ikuza.space" style=" height: 56px; opacity: 0.12; transition: opacity 0.3s;"></a>
