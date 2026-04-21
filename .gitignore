@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+
+app/cache/bookmark_types.json
+app/cache/chapters_*.json
+app/cache/title_*.json
+app/cache/battlepass_*.json
+
+session.json
+*.session.json
+
+.env
+.env.*
+
+.tests/
+tests/
